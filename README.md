@@ -17,12 +17,6 @@ Dabei sind alle Linien im Bezirk, sowie darüber hinausgehend relevante Verbindu
  * [PNG](https://raw.githubusercontent.com/T-DogCodes/plans-16_Ottakring/main/v24.09/Plan_16_Ottakring.v24.09.0.big.png)
  * [PDF](https://raw.githubusercontent.com/T-DogCodes/plans-16_Ottakring/main/v24.09/Plan_16_Ottakring.v24.09.0.pdf)
 
-### Plan ohne Baustellen (Stand Februar 2024)
- * [PNG](https://raw.githubusercontent.com/T-DogCodes/plans-3_11_Landstrasse_Simmering/main/v24.02/Plan_3_11_Landstraße_Simmering.1200DPI.V24.02.2.png)
- * [PDF](https://raw.githubusercontent.com/T-DogCodes/plans-3_11_Landstrasse_Simmering/main/v24.02/Plan_3_11_Landstraße_Simmering.V24.02.2.pdf)
-
-### 
-
 
 
 ## Andere Pläne:
